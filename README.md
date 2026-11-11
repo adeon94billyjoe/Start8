@@ -211,4 +211,4 @@ Start8 is offered as a complete free version with all features and updates inclu
 Download Start8 today and bring back the Start menu to your Windows 8 experience!
 
 ---
-**Last updated:** 2026-11-10 22:01:43 UTC
+**Last updated:** 2026-11-11 02:21:52 UTC
